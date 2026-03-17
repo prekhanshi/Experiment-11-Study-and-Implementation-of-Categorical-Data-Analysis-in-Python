@@ -1,5 +1,5 @@
 # Experiment-11-Study-and-Implementation-of-Categorical-Data-Analysis-in-Python
-Experiment-11
+
 
 # Name: Prekhanshi Kumbhakar
 
